@@ -95,7 +95,7 @@ $ cnpm install  # 安装依赖
 
 ```bash
 $ cd server # 进入后端文件夹
-$ cnpm i mongoose -s
+$ cnpm i mongoose -S
 ```
 
 创建文件`server/database/db.js`：
@@ -182,7 +182,7 @@ module.exports = router;
 
 ```bash
 $ cd client
-$ cnpm i axios -s
+$ cnpm i axios -S
 ```
 
 创建文件`client/vue.config.js`：
@@ -256,7 +256,7 @@ export default {
 
 ```bash
 $ cd server
-$ cnpm i socket.io -s
+$ cnpm i socket.io -S
 ```
 
  创建文件`server/routes/chat.js`：
@@ -303,7 +303,7 @@ io(server);
 
 ```bash
 $ cd client
-$ cnpm i vue-socket.io -s
+$ cnpm i vue-socket.io -S
 ```
 
  在文件`client/src/main.js`中引入：
