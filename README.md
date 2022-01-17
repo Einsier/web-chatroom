@@ -25,15 +25,15 @@ $ npm run serve  # 启动前端
 
 ### 页面展示
 
-![image-20220117202441633](https://gitee.com/einsier/pics-bed/raw/master/pics/20220117205221.png)
+![](https://gitee.com/einsier/pics-bed/blob/master/pics/20220117210252.png)
 
 
 
-![image-20220117203222928](https://gitee.com/einsier/pics-bed/raw/master/pics/20220117205230.png)
+![](https://gitee.com/einsier/pics-bed/raw/master/pics/20220117205230.png)
 
 
 
-![image-20220117203247179](https://gitee.com/einsier/pics-bed/raw/master/pics/20220117205235.png)
+![](https://gitee.com/einsier/pics-bed/raw/master/pics/20220117205235.png)
 
 
 

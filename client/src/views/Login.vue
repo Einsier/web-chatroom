@@ -113,7 +113,7 @@ export default {
         .then(function (res) {
           if (res.data.success) {
             _this.$router.push({ path: `/chat/${username}` })
-            _this.$socket.emit('login', _this.loginForm.username)  // 向后台通知有用户登录
+            _this.$socket.emit('login', _this.loginForm.username)
           } else {
             _this.$message.error(res.data.message)
           }
